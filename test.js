@@ -1,1 +1,1 @@
-console.log("Harsh Deep")
+console.log("Harsh Deep")   // output syntax

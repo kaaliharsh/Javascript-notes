@@ -11,3 +11,6 @@ accountCity="Mysore"
 console.table([accountId, accountEmail, accountPassword,accountCity]) // for printing all the variables in one go
 
  
+
+
+
