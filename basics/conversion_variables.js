@@ -12,6 +12,5 @@ console.log(booleanIsLoggedIn);
 
 
 
-
-//"33aa"=>  NaN means not a number
+//"33aa"=>  NaN means not a number...
 
