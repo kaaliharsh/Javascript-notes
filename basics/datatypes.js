@@ -38,5 +38,12 @@ const myobj={
 }
 console.log(myobj);
 
+const myfunction=function(){
+    console.log("hello ji kya haal chaal...!");
+    
+}
+console.log(typeof myfunction);
+
+
 
 
