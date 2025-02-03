@@ -42,7 +42,7 @@ const myfunction=function(){
     console.log("hello ji kya haal chaal...!");
     
 }
-console.log(typeof myfunction);
+console.log(typeof myfunction());
 
 
 
