@@ -20,3 +20,23 @@ console.log(typeof Object);  //op----> return the function
 
 
 
+//primitive datatypes are of 7 types in js : string, number, boolean, null, undefined, symbol and BigInt
+
+// reference datatypes : Array, Objects and functions
+
+// javascript is a dynamically typed language 
+
+// array 
+const heroes=["hatim", "shaktiman", "naagraj"]
+console.log(heroes);
+
+
+const myobj={
+    name:"Harsh Deep",
+    age: 22,
+    color: "white"
+}
+console.log(myobj);
+
+
+
