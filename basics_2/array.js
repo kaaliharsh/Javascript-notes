@@ -27,6 +27,9 @@ const myArrNew1=myArr.slice(1,3)  // includes the first, second but not third
 console.log(myArrNew1);
 console.log("B",myArr.splice(1,3));  // returns the first, second and third also.
 
+// splice() method of Array instances changes the contents of an array by removing or replacing existing elements and/or adding new elements in place
+// slice() method of Array instances returns a shallow copy of a portion of an array into a new array object selected from start to end (end not included) where start and end represent the index of items in that array. The original array will not be modified.
+
 
 
 
