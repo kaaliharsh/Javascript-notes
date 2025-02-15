@@ -7,6 +7,17 @@ const myArr=[1,2,3,4,5]   // javascript arrays are resizable and mix of datatype
 console.log(myArr[2]);   // returns the index value of 2 i.e 3
 
 
+// Arrays methods in java
+
+myArr.push(6)
+console.log(myArr);
+
+myArr.pop()      // Popping the last element from the array
+console.log(myArr);
+
+
+
+
 
 
 
