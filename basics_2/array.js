@@ -30,6 +30,16 @@ console.log("B",myArr.splice(1,3));  // returns the first, second and third also
 // splice() method of Array instances changes the contents of an array by removing or replacing existing elements and/or adding new elements in place
 // slice() method of Array instances returns a shallow copy of a portion of an array into a new array object selected from start to end (end not included) where start and end represent the index of items in that array. The original array will not be modified.
 
+const marvel_hero=["ironman","spiderman","hulk"]
+const dc_heroes=["flash","batmen","superman"]
+
+const all_heroes=marvel_hero.concat(dc_heroes);  // returns the new array in concat
+console.log(all_heroes);
+
+const all_heroes_spread=[...marvel_hero,...dc_heroes]  // ... is spread methods that splits the element of the stack
+console.log(all_heroes_spread);
+
+
 
 
 
