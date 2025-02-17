@@ -42,6 +42,28 @@ const UserName={}
 
 console.log(UserName);
 
+//----------------------------------De structuring--------------------------------
+
+const course={
+    coursename:"Java",
+    price:"999",
+    instructor:"Harsh Deep"
+}
+
+// course.instructor
+
+const {instructor}=course
+console.log(instructor);
+
+// props type in react
+const navbar=({company}) => {    // de-structuring
+
+}
+
+navbar(company="harsh")
+
+
+//--------------------------------------------APIs-> Application programming interface--------------------------------------
 
 
 
