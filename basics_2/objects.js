@@ -27,6 +27,25 @@ user.email="deep@gmail.com"
 console.log(user);
 
 
+//--------------------------------------------------------------------------------
+// singleton object -->
+
+const userName=new Object();
+userName.id="kaaliharsh",
+userName.name="Harsh",
+userName.isLoggedIn=false
+console.log(userName);
+
+// Non-singleton object --->
+
+const UserName={}
+
+console.log(UserName);
+
+
+
+
+
 
 
 
