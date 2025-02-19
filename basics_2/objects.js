@@ -58,7 +58,7 @@ console.log(instructor);
 // props type in react
 const navbar=({company}) => {    // de-structuring
 
-}
+} 
 
 navbar(company="harsh")
 
