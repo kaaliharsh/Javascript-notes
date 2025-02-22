@@ -61,13 +61,13 @@ const navbar=({company}) => {    // de-structuring
 } 
 
 navbar(company="harsh") 
-
+    
  
 //--------------------------------------------APIs-> Application programming interface--------------------------------------
 
 
 
-
+ 
 
 
 
