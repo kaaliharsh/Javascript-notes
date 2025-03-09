@@ -52,7 +52,7 @@ const course={
 
 // course.instructor
 
-const {instructor}=course
+const {instructor:inst}=course     //de-structuring
 console.log(instructor);
 
 // props type in react
