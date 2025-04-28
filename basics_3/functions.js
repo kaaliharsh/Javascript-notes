@@ -6,3 +6,13 @@ function myData(){
 }
 
 myData()
+
+
+// add two numbers 
+
+function addTwoNum(num1,num2){
+ result=num1+num2;
+ console.log(result);
+ 
+}
+addTwoNum(4,4)
